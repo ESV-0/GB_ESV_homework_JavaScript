@@ -1,1 +1,1 @@
-# GB_ESV_homework_JavaScript
+JavaScript
